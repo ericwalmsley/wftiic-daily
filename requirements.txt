@@ -28,7 +28,7 @@ executing==1.0.0
 fastjsonschema==2.16.2
 Fiona==1.8.21
 fonttools==4.37.3
-GDAL
+GDAL-3.4.3-cp39-cp39-win_amd64.whl
 geomet==0.3.0
 geopandas==0.11.1
 gssapi==1.8.1
