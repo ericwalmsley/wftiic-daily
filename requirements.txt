@@ -1,3 +1,4 @@
+pip==22.3.1
 affine==2.3.1
 anyio==3.6.1
 arcgis==2.0.1
