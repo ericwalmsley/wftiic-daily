@@ -28,6 +28,7 @@ executing==1.0.0
 fastjsonschema==2.16.2
 Fiona==1.8.21
 fonttools==4.37.3
+numpy==1.23.3
 ./GDAL-3.4.3-cp39-cp39-win_amd64.whl
 geomet==0.3.0
 geopandas==0.11.1
@@ -68,7 +69,6 @@ nest-asyncio==1.5.5
 notebook==6.4.12
 notebook-shim==0.1.0
 ntlm-auth==1.5.0
-numpy==1.23.3
 oauthlib==3.2.1
 packaging==21.3
 pandas==1.5.0
