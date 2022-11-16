@@ -87,7 +87,6 @@ pypiwin32==223
 pyproj==3.4.0
 pyrsistent==0.19.2
 pyshp==2.3.1
-pywin32==305
 pywin32-ctypes==0.2.0
 pywinpty==2.0.9
 pyzmq==24.0.1
