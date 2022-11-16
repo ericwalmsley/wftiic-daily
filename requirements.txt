@@ -88,7 +88,6 @@ pyproj==3.4.0
 pyrsistent==0.19.2
 pyshp==2.3.1
 pyspnego==0.6.3
-python-certifi-win32==1.6.1
 pywin32==305
 pywin32-ctypes==0.2.0
 pywinpty==2.0.9
