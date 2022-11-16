@@ -83,7 +83,6 @@ pycparser==2.21
 Pygments==2.13.0
 pyparsing==3.0.9
 PyPDF2==2.11.1
-pypiwin32==223
 pyproj==3.4.0
 pyrsistent==0.19.2
 pyshp==2.3.1
