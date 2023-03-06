@@ -1,4 +1,3 @@
-arcgis
 cloudinary
 geopandas
 matplotlib
